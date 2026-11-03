@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FDFBF7"
+    android:padding="24dp">
+
+    <!-- Container Konten Tengah -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <!-- Gambar Maskot Retro -->
+        <ImageView
+            android:id="@+id/imgMascot"
+            android:layout_width="240dp"
+            android:layout_height="240dp"
+            android:contentDescription="Maskot Kopi dan Nyemil"
+            android:src="@drawable/ic_mascot" />
+
+        <!-- Badge Tagline Neo-Brutalism -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/bg_neo_badge"
+            android:paddingHorizontal="16dp"
+            android:paddingVertical="6dp"
+            android:text="NGANTUK? NYEMIL DULU!"
+            android:textColor="#000000"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <!-- Judul Utama Bold Kapital -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="KOPI &amp; NYEMIL"
+            android:textColor="#000000"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <!-- Kata-kata Unik/Slogan -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:text="Seduhan kopi mantap dan camilan renyah siap nemenin hari-harimu!"
+            android:textColor="#4A4A4A"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <!-- Tombol GET STARTED di Bagian Bawah -->
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnGetStarted"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/bg_neo_button"
+        android:text="GET STARTED ➔"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

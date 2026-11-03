@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnOrder" type="id" />
+    <item name="tvMenuDesc" type="id" />
+    <item name="tvMenuName" type="id" />
+    <item name="imgMenu" type="id" />
+    <item name="tvMenuPrice" type="id" />
+</resources>
