@@ -1,5 +1,8 @@
+# Nama : Adi Satria Permana
+# NIM  : 1247050074 
+
 # LINK PDF Tampilan: https://drive.google.com/drive/folders/1bLQZ5pO_f20L3JAJZNYDXYWDkx3_GaIT?usp=drive_link
-# LING GITHUB : https://github.com/AdiSatriaPermana/UTSPAM
+# LINK GITHUB : https://github.com/AdiSatriaPermana/UTSPAM
 # ☕ Kopi dan Nyemil - Mobile Application (UTS Pengembangan Aplikasi Mobile)
 Aplikasi pemesanan makanan dan minuman berbasis mobile berbasis Android Native (Kotlin) dengan antarmuka modern berbatu gaya **Neo-Brutalism**. Aplikasi ini dirancang intuitif untuk memilih menu kopi/camilan, mengatur jumlah kuantitas, hingga mencetak bukti pembayaran berupa struk digital.
 
@@ -39,3 +42,4 @@ Aplikasi pemesanan makanan dan minuman berbasis mobile berbasis Android Native (
 1. **Clone repository ini:**
    ```bash
    git clone [https://github.com/AdiSatriaPermana/UTSPAM.git](https://github.com/AdiSatriaPermana/UTSPAM.git)
+
