@@ -43,6 +43,36 @@ Aplikasi pemesanan makanan dan minuman berbasis mobile berbasis Android Native (
    ```bash
    git clone [https://github.com/AdiSatriaPermana/UTSPAM.git](https://github.com/AdiSatriaPermana/UTSPAM.git)
 
+## 📱 Panduan Alur Penggunaan Aplikasi
+
+1. **Layar Awal (Splash / Welcome):**
+   - Saat aplikasi pertama kali dibuka, pengguna disambut dengan layar Splash bertema Neo-Brutalism.
+   - Klik tombol **GET STARTED** untuk masuk ke alur autentikasi.
+
+2. **Layar Pilihan Autentikasi & Login / Register:**
+   - Pilih tombol **LOGIN** atau **REGISTER**.
+   - Pada halaman **Register**, masukkan Nama Lengkap, Username, dan Password, lalu klik **REGISTER NOW** (nama pengguna akan tersimpan secara otomatis).
+   - Pada halaman **Login**, masukkan Username dan Password lalu klik **LOGIN** untuk masuk ke halaman utama.
+
+3. **Layar Utama (Home & Katalog Menu):**
+   - Pengguna disapa dengan salam pembuka sesuai nama pengguna yang terdaftar (contoh: *Halo, Adi Satria P!*).
+   - Gunakan tombol filter di bagian atas (**SEMUA**, **MINUMAN**, **MAKANAN**) untuk menyaring daftar menu.
+   - Klik tombol **`+`** atau **`-`** pada tiap kartu menu untuk menambah atau mengurangi jumlah pesanan (kuantitas).
+   - Total item dan total harga bayar di *bottom bar* akan bertambah/berkurang secara *real-time*.
+
+4. **Navigasi Profil (Optional):**
+   - Klik tombol **PROFILE** di pojok kanan atas untuk melihat dan memperbarui nama pengguna.
+
+5. **Layar Checkout & Alamat Pengiriman:**
+   - Setelah memilih menu, klik tombol **BAYAR ➔** di bagian bawah.
+   - Pengguna akan diarahkan ke halaman **Alamat Pengiriman**.
+   - Rincian pesanan dan total harga akan ditampilkan di ringkasan atas.
+   - Isi Nama Penerima, Alamat Lengkap, serta Detail Patokan Pengiriman, lalu klik **ORDER DAN KIRIM ➔**.
+
+6. **Layar Konfirmasi & Struk Digital:**
+   - Aplikasi akan mencetak **Bukti Pembayaran Resmi (Struk Digital)** lengkap dengan rincian item, nama pelanggan, dan status pesanan (*LUNAS & DIPROSES*).
+   - Klik tombol **OKE, KEMBALI KE HOME** untuk menyelesaikan transaksi dan kembali ke halaman utama.
+
 ## 📸 Tampilan Aplikasi
 
 | Splash / Welcome | Sign Up | Login | Register |
@@ -53,6 +83,6 @@ Aplikasi pemesanan makanan dan minuman berbasis mobile berbasis Android Native (
 | :---: | :---: | :---: | :---: |
 | <img src="Screenshoot/semua.jpeg" width="180"> | <img src="Screenshoot/minuman.jpeg" width="180"> | <img src="Screenshoot/makanan.jpeg" width="180"> | <img src="Screenshoot/profil.jpeg" width="180"> |
 
-| Home (Ada Keranjang) | Alamat Pengiriman | Struk Konfirmasi |
-| :---: | :---: | :---: |
+|                  Home (Bayar)                  | Alamat Pengiriman | Struk Konfirmasi |
+|:----------------------------------------------:| :---: | :---: |
 | <img src="Screenshoot/bayar.jpeg" width="180"> | <img src="Screenshoot/alamat.jpeg" width="180"> | <img src="Screenshoot/konfirmasi.jpeg" width="180"> |
