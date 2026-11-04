@@ -43,4 +43,16 @@ Aplikasi pemesanan makanan dan minuman berbasis mobile berbasis Android Native (
    ```bash
    git clone [https://github.com/AdiSatriaPermana/UTSPAM.git](https://github.com/AdiSatriaPermana/UTSPAM.git)
 
-https://github.com/AdiSatriaPermana/UTSPAM/blob/main/Screenshoot/alamat.jpeg
+## 📸 Tampilan Aplikasi
+
+| Splash / Welcome | Sign Up | Login | Register |
+| :---: | :---: | :---: | :---: |
+| <img src="Screenshoot/home.jpeg" width="180"> | <img src="Screenshoot/sign up.jpeg" width="180"> | <img src="Screenshoot/login.jpeg" width="180"> | <img src="Screenshoot/register.jpeg" width="180"> |
+
+| Home (Semua) | Filter Minuman | Filter Makanan | Profile |
+| :---: | :---: | :---: | :---: |
+| <img src="Screenshoot/semua.jpeg" width="180"> | <img src="Screenshoot/minuman.jpeg" width="180"> | <img src="Screenshoot/makanan.jpeg" width="180"> | <img src="Screenshoot/profil.jpeg" width="180"> |
+
+| Home (Ada Keranjang) | Alamat Pengiriman | Struk Konfirmasi |
+| :---: | :---: | :---: |
+| <img src="Screenshoot/bayar.jpeg" width="180"> | <img src="Screenshoot/alamat.jpeg" width="180"> | <img src="Screenshoot/konfirmasi.jpeg" width="180"> |
